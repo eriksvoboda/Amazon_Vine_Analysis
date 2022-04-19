@@ -13,6 +13,10 @@ The purpose of this project is to chose one dataset from the Amazon Vine program
   There are 48 5 star Vine reviews and 15663 non-Vine 5 star reviews.
 
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-  51.06% of Vine reviews were 5 star reviews. 38.70%of non-Vine reviews were 5 star reviews.vine  
+  51.06% of Vine reviews were 5 star reviews. 38.70% of non-Vine reviews were 5 star reviews.vine  
+
+![](/vine_non_vine_reviews.png)
+
+
 
 ## Summary
