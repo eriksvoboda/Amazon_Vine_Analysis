@@ -17,6 +17,6 @@ The purpose of this project is to chose one dataset from the Amazon Vine program
 
 ![](/vine_non_vine_reviews.png)
 
-
-
 ## Summary
+
+Since half of the Vine reviews are 5 star reviews, there is reason to say there is positivity bias in the Vine program. In order to gather more data with the same dataset we could not filter the data for reviews with 20 or more votes. By using all of the reviews available we could see if the perccentage of 5 star reivews increases or decreases to confirm if there is positivity bias amoung the whole dataset. 
